@@ -11,11 +11,11 @@ const Footer = () => {
         <div className='mb-6 md:mb-0'>
             <Link to='/'>
               {/* <img src={Logo} alt="" className='w-32'/> */}
-              <h1 className='text-red-500 text-2xl font-bold'>Zaptro</h1>
+              <h1 className='text-red-500 text-2xl font-bold'>Buy & Get</h1>
             </Link>
             <p className='mt-2 text-sm'>Powering Your World with the Best in Electronics.</p>
             <p className='mt-2 text-sm'>123 Electronics St, Style City, NY 10001</p>
-            <p className='text-sm'>Email: support@Zaptro.com</p>
+            <p className='text-sm'>Email: support@buy&get.com</p>
             <p className='text-sm'>Phone: (123) 456-7890</p>
         </div>
         {/* customer service link */}
@@ -49,7 +49,7 @@ const Footer = () => {
                 placeholder='Your email address'
                 className='w-full p-2 rounded-l-md  text-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-500'
                 />
-                <button type='submit' className='bg-red-600 text-white px-4 rounded-r-md hover:bg-red-700'>Subscribe</button>
+                <button type='submit' className='bg-red-600 text-white px-4 rounded-r-md hover:bg-red-700'>Explore more</button>
             </form>
         </div>
       </div>
